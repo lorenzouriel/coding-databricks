@@ -1,5 +1,5 @@
 bundle:
-  name: semana-databricks-2-0
+  name: lakeflow-with-ai-agent
 
 targets:
   dev:
