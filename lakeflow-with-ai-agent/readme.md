@@ -26,12 +26,12 @@ Run your Databricks workflows depending.
 ## Project Highlights
 ### Data Pipeline Architecture
 Declarative orchestration of Bronze → Silver → Gold layers with Databricks and dbt.
-![pipeline](/docs/pipeline.jpg)
+![pipeline](docs/pipeline.jpg)
 
 ### Interactive Dashboard
 Visualization of pipeline metrics, lineage, and insights.
-![dashboard](/docs/dashboard.jpg)
+![dashboard](docs/dashboard.jpg)
 
 ### Genie AI Agent
 An AI-powered agent that assists in data pipeline management and debugging.
-![genie_space](/docs/genie_space.jpg)
+![genie_space](docs/genie_space.jpg)
